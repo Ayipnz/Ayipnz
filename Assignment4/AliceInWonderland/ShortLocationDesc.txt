@@ -1,0 +1,13 @@
+You are back by the riverbank, outside the rabbithole
+You are at the bottom of the rabbit hole again (r1)
+You back in the dark hallway again. East takes you to the woods but the door is really small! (r2)
+You are back in the second part of the hallway (r3)
+You are back at the woods, would you like to stash anuthing here? (r4)
+You are back in the big hanger space, I think you can climb up the rabbit hole to the woods or go west to the rabbit house (r5)
+You are back in the White Rabbits room with the treasure chest in the corner. (r6)
+You are back at the lake. (r7)
+you are back at the green garders. west takes your to Tweedle Dee/Dum. West takes you to the big mushroom.(r8)
+You are back with Tweedle Dee and Tweedle Dum, they don't seem happy to see you again but are willing to talk (r9)
+You back at the mushroom with the Caterpillar (r10)
+You are back with the Queen, she wants to play golf. (r11)
+Outside
